@@ -1,6 +1,6 @@
 import os
 
-caminho_porcura = input('Digite um caminho: ')
+caminho_porcura = input(r'Digite um caminho: ')
 termo_procura = input('Digite um termo: ')
 
 

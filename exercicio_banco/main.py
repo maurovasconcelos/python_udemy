@@ -57,7 +57,7 @@ else:
 print('####################')
 
 if banco.autenticar(cliente2):
-    cliente2.conta.depositar(0)
+    cliente2.conta.depositar(200)
     cliente2.conta.sacar(20)
 else:
     print('Cliente não autenticado.')
